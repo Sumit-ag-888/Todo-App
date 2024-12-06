@@ -1,0 +1,19 @@
+
+*{
+    font-size: 15px;
+}
+body{
+    display: flex;
+    min-height: 100vh;
+}
+main{
+    flex: 1 0 auto;
+}
+
+body{
+    background-color: rgba(185, 210, 21, 0.103);
+}
+
+#updateTaskButton{
+    display: none;
+}
